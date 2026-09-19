@@ -246,3 +246,6 @@ Good next upgrades for a portfolio version:
 - Cover-letter generation
 - Job-specific resume tailoring
 - Local deterministic keyword scoring alongside the Gemini score
+
+## 12. Deployment Link:
+app live at: https://ai-resume-assistant-02.streamlit.app/
